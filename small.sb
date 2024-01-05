@@ -1,8 +1,3 @@
-GraphicsWindow.BackgroundColor = "Black"
-GraphicsWindow.PenColor = "White"
-GraphicsWindow.MouseDown = OnMouseDown
-GraphicsWindow.MouseMove = OnMouseMove
-GraphicsWindow.KeyDown = OnKeyDown
 
 Sub OnKeyDown
 If (GraphicsWindow.LastKey = "R") Then
