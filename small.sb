@@ -1,4 +1,4 @@
-
+hiiiiiiiiiiiiiiiiiiiiiiiiii
 Sub OnKeyDown
 If (GraphicsWindow.LastKey = "R") Then
 GraphicsWindow.PenColor = "Red"
